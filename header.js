@@ -1,0 +1,1 @@
+document.write('<header id="main-header"><div class="container"><h1><a href="index.html" style="color:black; text-decoration: none;">Joseph Zietowski</a></h1></div></header><nav id="navbar"><div class="container"><ul><li><a href="index.html">Projects</a></li><li><a href="photography.html">Photography</a></li><li><a href="contact.html">Contact</a></li></ul></div></nav>');
